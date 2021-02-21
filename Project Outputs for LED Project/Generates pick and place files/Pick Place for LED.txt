@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\alber\Desktop\Altium\LED PROJECT\LED Project\Project Outputs for LED Project\Generates pick and place files\Pick Place for LED.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/02/21
+Time:       17:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint  Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                                                                                                                        
+R2         360R         BottomLayer R0805      728.346       551.181       270      "RES, THICK FILM,1%, 0.125W, 0805; Product Range:AEC-Q200 CRCW Series; Resistance:36ohm; Power Rating:125mW; Resistance Tolerance: 1%; Voltage Rating:150V; Resistor Case Style:0805 [2012 Metric]; Packaging:Cut Tape ;RoHS Compliant: Yes"
+D2         RED          BottomLayer LED0803RED 732.283       243.110       90       "LED Uni-Color Red 643nm Automotive 2-Pin SMD T/R"
+R1         360R         TopLayer    R0805      196.850       511.811       270      "RES, THICK FILM, 36R, 1%, 0.125W, 0805; Product Range:AEC-Q200 CRCW Series; Resistance:36ohm; Power Rating:125mW; Resistance Tolerance: 1%; Voltage Rating:150V; Resistor Case Style:0805 [2012 Metric]; Packaging:Cut Tape ;RoHS Compliant: Yes" 
+J1         "1x2 Header" TopLayer    HDR1X2     551.181       364.173       0        ""                                                                                                                                                                                                                                                 
+D1         RED          TopLayer    LED0803RED 196.850       216.535       90       "LED Uni-Color Red 643nm Automotive 2-Pin SMD T/R"                                                                                                                                                                                                 
